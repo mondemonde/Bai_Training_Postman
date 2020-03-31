@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPostman", "Training
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPostman.Tests", "TrainingPostman.Tests\TrainingPostman.Tests.csproj", "{5226BFF3-BEB7-4C6E-8F87-4CFC9B450D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota", "Dota\Dota.csproj", "{739B47E9-7DC3-42E4-A630-00824D8C618B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5226BFF3-BEB7-4C6E-8F87-4CFC9B450D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5226BFF3-BEB7-4C6E-8F87-4CFC9B450D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5226BFF3-BEB7-4C6E-8F87-4CFC9B450D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739B47E9-7DC3-42E4-A630-00824D8C618B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739B47E9-7DC3-42E4-A630-00824D8C618B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739B47E9-7DC3-42E4-A630-00824D8C618B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739B47E9-7DC3-42E4-A630-00824D8C618B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

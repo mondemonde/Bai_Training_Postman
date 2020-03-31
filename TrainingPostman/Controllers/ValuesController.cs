@@ -21,6 +21,8 @@ namespace TrainingPostman.Controllers
             return "value";
         }
 
+        
+
         // POST api/values
         public void Post([FromBody]string value)
         {
@@ -35,5 +37,8 @@ namespace TrainingPostman.Controllers
         public void Delete(int id)
         {
         }
+
+
+
     }
 }
